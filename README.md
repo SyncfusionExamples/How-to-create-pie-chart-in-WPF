@@ -9,6 +9,8 @@ Also, please refer KB links for more details,
 
 [How to create chart in XAML WPF](https://www.syncfusion.com/kb/10786?utm_medium=listing&utm_source=github-examples)
 
+[How to create pie chart in C# WPF](https://www.syncfusion.com/kb/10789/how-to-create-pie-chart-in-c-wpf)
+
 ## <a name="troubleshooting"></a>Troubleshooting ##
 ### Path too long exception
 If you are facing path too long exception when building this example project, close Visual Studio and rename the repository to short and build the project.
