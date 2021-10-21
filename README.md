@@ -15,5 +15,7 @@ Also, please refer KB links for more details,
 ### Path too long exception
 If you are facing path too long exception when building this example project, close Visual Studio and rename the repository to short and build the project.
 
+KB article - [How-to-create-Pie-Chart-in-WPF](https://www.syncfusion.com/kb/10789/how-to-create-pie-chart-example-in-c-wpf)
+
 
 
