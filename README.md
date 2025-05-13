@@ -1,6 +1,8 @@
 # How-to-create-Pie-Chart-in-WPF
 This example demonstrates how to implement pie chart in WPF with header, legend and series. 
 
+![Screenshot 2025-05-13 114326](https://github.com/user-attachments/assets/963f249c-ad3c-4f47-a4d4-e6c02fb30fa3)
+
 Also, please refer KB links for more details,
 
 [How to create chart in C# WPF](https://www.syncfusion.com/kb/10783?utm_medium=listing&utm_source=github-examples)
